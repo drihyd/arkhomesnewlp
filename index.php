@@ -76,7 +76,6 @@
          <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-6">
                <a href="index.php" class="header-logo" title="Ark Home"><img src="img/logo.png" alt="Ark Cloud City Logo"></a>
-                <small>Whitefield, Bengaluru</small>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-6">
                <div class="pull-right">
@@ -100,7 +99,7 @@
       <div class="">
          <div class="row">
             <div class="col-md-8 col-sm-12 banner_text">
-               <h1>Be a part of the<br> <span class="mark">happiest</span> gated<br> community in<br> Whitefield,<br>Bangalore</h1>
+               <h1><span class="disp-block">Be a part of the</span> <span class="mark">happiest</span> gated<span class="disp-block"> community in</span><span class="disp-block"> Whitefield, </span>Bangalore</h1>
             </div>
          </div>
       </div>
@@ -124,7 +123,7 @@
                         <input type='hidden' name='zc_gad' id='zc_gad' value=''></input> 
                         <input type='text' style='display:none;' name='xmIwtLD' value='d2f602bd7b8229d920a508285b1c34a59a17d89857143342f8a53fc1179a5362'></input> 
                         <input type='text'  style='display:none;' name='actionType' value='TGVhZHM='></input>
-                        <input type='text' style='display:none;' name='returnURL' value='https://arkgroup.in/l/compact-apartment-in-whitefeld-bangalore/thankyou.html' > </input>
+                        <input type='text' style='display:none;' name='returnURL' value='https://arkgroup.in/l/happiest-gated-community-in-whitefield-bangalore/thankyou.html' > </input>
                         <br></br>
                         <!-- Do not remove this code. -->
                         <input type='text' style='display:none;' id='ldeskuid' name='ldeskuid'></input>
@@ -136,7 +135,7 @@
                                  <div class="form-group">
                                     <h3 class="text-dark">What is Your Budget</h3>
                                     <input type="radio" id="70lacs" name="price" value="70 lacs to i crore">
-                                    <label for="70lacs">70 lacs to i crore</label><br>
+                                    <label for="70lacs">70 lacs to 1 crore</label><br>
                                     <input type="radio" id="1crore" name="price" value="More than 1 crore">
                                     <label for="1crore">More than 1 crore</label><br>
                                  </div>
@@ -244,28 +243,28 @@
                   <div class="row">
                      <div class="col-md-7 col-sm-12">
                         <h1 class="color-white">3 BHK homes ranging from 
-1495 to 2040 sft.</h1>
-                        <h1 class="color-white">Well-thought apartment layout, 
-so every inch of precious space 
-is utilized!</h1>
+                        1495 to 2040 sft.</h1>
+                                                <h1 class="color-white">Well-thought apartment layout, 
+                        so every inch of precious space 
+                        is utilized!</h1>
 
-<h1 class="color-white" style="margin-bottom: 0px">Just 165 apartments! </h1>
-<p class="color-white f-24"> At Ark Cloud, Whitefield — you know your neighbours. 
-There’s a strong sense of community and belonging! </p>
-<p class="color-white f-24">Amazing clubhouses packed with latest amenities. <br> From a modern gym to children’s play area and a lot more! </p>
+                        <h1 class="color-white" style="margin-bottom: 0px">Just 165 apartments! </h1>
+                        <p class="color-white f-24"> At Ark Cloud, Whitefield — you know your neighbours. 
+                        There’s a strong sense of community and belonging! </p>
+                        <p class="color-white f-24">Amazing clubhouses packed with latest amenities. <br> From a modern gym to children’s play area and a lot more! </p>
                      </div>
                   </div>
                   <div class="row" style="margin-top: 40px">
-                     <div class="col-sm-4 box-amenties">
+                     <div class="col-sm-4 col-xs-6 box-amenties">
                         <img src="./img/fully_equipped_clubhouse.png" class="img-responsive">
                         <p class="color-white f-24 m-4"> Fully-equipped  <br> 
-clubhouse </p>
+                        clubhouse </p>
                      </div>
-                     <div class="col-sm-4 box-amenties">
+                     <div class="col-sm-4 col-xs-6 box-amenties">
                         <img src="./img/childrens_play_area.png" class="img-responsive">
                         <p class="color-white f-24 m-4">Children’s  play <br> area</p>
                      </div>
-                     <div class="col-sm-4 box-amenties">
+                     <div class="col-sm-4 col-xs-6 box-amenties">
                         <img src="./img/modern_gym.png" class="img-responsive">
                         <p class="color-white f-24 m-4">Modern gym</p>
                      </div>
