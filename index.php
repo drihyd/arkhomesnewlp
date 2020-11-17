@@ -46,6 +46,7 @@
   
    
       <link rel="stylesheet" href="css/stylec619.css?v=1.0">
+
       <link rel="stylesheet" href="css/owl.css">
       <link rel="stylesheet" href="css/owl-theme.css">
       <link rel="stylesheet" href="css/owl-transition.css">
@@ -340,23 +341,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="container">
             <div class="row">
             <div class="col-md-8 col-sm-12">
-            <h1>Now is the time to convert your 
-            Fixed Deposit into a Real Estate Asset.
+            <h1>Rich Social Infrastructure </h1>
+            <h1>
+               A serene, residential oasis amidst 
+buzzing social infrastructure!
             </h1>
+            <ul class="tick_points">
+         <li>    <img src="./img/tick_icon.png" class="img-responsive"> <span> Educational - The Deen`s Academy, Sai Baba Educational Institutions, etc.</span> </li>
+            <li> <img src="./img/tick_icon.png" class="img-responsive">
+            <span> Hospitals - Cloud Nine Hospital, Vydehi Hospital, etc.</span> </li>
+            <li> <img src="./img/tick_icon.png" class="img-responsive">
+            <span> Tech Parks & IT Corporates - Sapient, GR Tech Park, Brigade Tech Park, etc.</span> </li>
+            <li> <img src="./img/tick_icon.png" class="img-responsive">
+            <span> Malls & shopping - VR Mall, Phoenix Market City, Park Square Mall, etc.</span> </li>
+         </ul>
             </div>
             </div>
             </div>
             </section>
-            <section class="gated_comunity" style="background-color: #eeeeee7a;">
+            <section class="gated_comunity" style="background-color:#ff0000">
             <div class="container">
             <div class="row">
             <div class="col-md-6 col-sm-12">
-            <img src="img/ark-tandem.png" class="img-responsive" alt="ARK Tandem" >
-            <h2> our Property Management Arm will 
-            take care of collecting the rentals 
-            and depositing the money in your 
-            account.
-            </h2>
+          
+            <h1 class="color-white"> Ready to Move-In Homes </h1>
+            <p class="color-white f-24 ">No more waiting ... You can move in right Now! your dream home is just a click away. Fill up the form now. Call +91 953 888 9887 or 80 2845 7838</p>
             </div>
             </div>
             </div>
