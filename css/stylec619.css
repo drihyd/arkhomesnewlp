@@ -1839,3 +1839,38 @@ header small {
 .mobile-version {
 	margin-top: 2%
 }
+.color-white
+{
+	color:#fff;
+}
+.f-24
+{
+	font-size: 24px;
+	line-height: 180%
+}
+.tick_points li
+{
+	list-style: none;
+	margin-bottom: 15px
+}
+.tick_points
+{
+	padding-left: 0px !important;
+	margin-top: 40px
+}
+.tick_points li img
+{
+	display: inline-block;
+	margin-right: 10px
+	
+}
+
+.tick_points li span
+{
+	display: inline-block;
+	
+}
+.m-4
+{
+	margin-top: 20px
+}
