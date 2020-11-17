@@ -97,7 +97,7 @@
       </div>
    </section>
    <section class="main-section bg-blue">
-      <div class="container">
+      <div class="">
          <div class="row">
             <div class="col-md-8 col-sm-12 banner_text">
                <h1>Be a part of the<br> <span class="mark">happiest</span> gated<br> community in<br> Whitefield,<br>Bangalore</h1>
@@ -108,12 +108,12 @@
    <section class="padding-top-0">
       <div class="container">
          <div class="row flex-row">
-            <div class="col-sm-7">
+            <div class="col-md-7 col-sm-5">
                <div class="wrapper">
                   <h2>Limited time offer: Get<br> FREE registration if you<br> book now!</h2>
                </div>
             </div>
-            <div class="col-sm-5">
+            <div class="col-md-5 col-sm-7">
                <div class="form-heading-wrapper">
                   <h3 class="text-dark">Want a virtual tour?<br>Please share your contact details, and our team will get in touch with you.</h3>
                </div>
