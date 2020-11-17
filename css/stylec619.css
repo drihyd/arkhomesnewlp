@@ -36,11 +36,11 @@
 }
 
 @font-face {
-	font-family: Manrope-Regular;
-	src: url(../fonts/manrope-regular/Manrope-Regulard41d.eot?#iefix) format('embedded-opentype'), url(../fonts/manrope-regular/Manrope-Regular.woff) format('woff'), url(../fonts/manrope-regular/Manrope-Regular.ttf) format('truetype'), url(../fonts/manrope-regular/Manrope-Regular.svg#Manrope-Regular) format('svg');
-	font-weight: 400;
+	font-family: Muli-Light;
+	src: url(../fonts/Muli-Light.ttf);
+	font-weight: 100;
 	font-style: normal;
-	font-display: swap
+	font-display: swap;
 }
 
 @font-face {
@@ -52,8 +52,8 @@
 }
 
 @font-face {
-	font-family: Manrope-Thin;
-	src: url(../fonts/manrope-thin/Manrope-Thind41d.eot?#iefix) format('embedded-opentype'), url(../fonts/manrope-thin/Manrope-Thin.woff) format('woff'), url(../fonts/manrope-thin/Manrope-Thin.ttf) format('truetype'), url(../fonts/manrope-thin/Manrope-Thin.svg#Manrope-Thin) format('svg');
+	font-family: Muli-Light;
+	src: url(../fonts/Muli-Light/Muli-Lightd41d.eot?#iefix) format('embedded-opentype'), url(../fonts/Muli-Light/Muli-Light.woff) format('woff'), url(../fonts/Muli-Light/Muli-Light.ttf) format('truetype'), url(../fonts/Muli-Light/Muli-Light.svg#Muli-Light) format('svg');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap
@@ -95,7 +95,7 @@ html {
 }
 
 body {
-	font-family: Manrope-Regular;
+	font-family: Muli-Light;
 	font-size: 16px;
 	line-height: 22px;
 	position: relative;
@@ -120,7 +120,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: Manrope-Regular;
+	font-family: Muli-Light;
 	font-weight: 300;
 	margin: 0;
 	padding: 0;
@@ -133,7 +133,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: Manrope-Regular
+	font-family: Muli-Light
 }
 
 h1.with-icon,
@@ -159,7 +159,7 @@ h6.with-icon .icon {
 }
 
 h1 {
-	font-family: Manrope-Regular;
+	font-family: Muli-Light;
 	color: #000;
 	font-size: 38px;
 	line-height: 48px;
@@ -172,7 +172,7 @@ h1 {
 }
 
 .icon-section h1 {
-	font-family: Manrope-Thin
+	font-family: Muli-Light
 }
 
 @media (max-width:480px) {
@@ -196,7 +196,7 @@ h1 {
 }
 
 h2 {
-	font-family: Manrope-Regular;
+	font-family: Muli-Light;
 	font-size: 30px;
 	line-height: 45px;
 	padding-top: 13px;
@@ -218,7 +218,7 @@ h2 {
 }
 
 h3 {
-	font-family: Manrope-Regular;
+	font-family: Muli-Light;
 	font-size: 25px;
 	line-height: 35px;
 	padding-top: 6px;
@@ -227,7 +227,7 @@ h3 {
 }
 
 h4 {
-	font-family: Manrope-Regular;
+	font-family: Muli-Light;
 	font-size: 18px;
 	line-height: 27px;
 	padding-top: 12px;
@@ -236,7 +236,7 @@ h4 {
 }
 
 h5 {
-	font-family: Manrope-Regular;
+	font-family: Muli-Light;
 	font-size: 16px;
 	line-height: 24px;
 	padding-top: 9px;
@@ -262,7 +262,7 @@ p.intro-text {
 	line-height: 27px;
 	font-weight: 400;
 	color: #000;
-	font-family: Manrope-Regular
+	font-family: Muli-Light
 }
 
 @media (max-width:480px) {
@@ -1053,7 +1053,7 @@ body.modal-open {
 }
 
 h1.title {
-	font-family: Manrope-Regular!important
+	font-family: Muli-Light!important
 }
 
 h2.author-name {
@@ -1188,7 +1188,7 @@ form.e-book-form {
 
 label {
 	color: #717275;
-	font-family: Manrope-Thin;
+	font-family: Muli-Light;
 	font-size: 20px;
 	margin-bottom: 10px
 }
@@ -1223,7 +1223,7 @@ footer p {
 	font-size: 24px;
 	letter-spacing: 1px;
 	margin-top: 180px;
-	font-family: Manrope-Thin
+	font-family: Muli-Light
 }
 
 .thankyou-body {
@@ -1495,7 +1495,7 @@ footer p {
 
 .loads_option h1 span {
 	color: #000;
-	font-family: Manrope-Regular
+	font-family: Muli-Light
 }
 
 #sldier-image figcaption {
@@ -1514,7 +1514,7 @@ footer p {
 .price_gaurantee p {
 	color: #fff;
 	font-size: 22px;
-	font-family: Manrope-regular
+	font-family: Muli-Light
 }
 
 @media only screen and (max-width:992px) {
@@ -1650,14 +1650,14 @@ footer img {
 }
 
 p {
-	font-family: Manrope-Thin
+	font-family: Muli-Light
 }
 
 .gated_comunity h1 {
 	font-size: 38px;
 	
 	line-height: 130%;
-	font-family: Manrope-Regular;
+	font-family: Muli-Light;
 	margin-bottom: 30px
 }
 
@@ -1747,7 +1747,7 @@ p {
 
 .bottom-form h1 {
 	font-size: 28px;
-	font-family: Manrope-Regular
+	font-family: Muli-Light
 }
 
 video {
@@ -1792,7 +1792,7 @@ footer {
 }
 
 .banner_text h1 {
-	font-family: Manrope-Thin;
+	font-family: Muli-Light;
 	color: #fff
 }
 
@@ -1817,7 +1817,7 @@ footer {
 }
 
 .banner_text h1 b {
-	font-family: Manrope-Regular
+	font-family: Muli-Light
 }
 
 header small {
