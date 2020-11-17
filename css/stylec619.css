@@ -1655,10 +1655,10 @@ p {
 
 .gated_comunity h1 {
 	font-size: 38px;
-	color: #000;
+	
 	line-height: 130%;
 	font-family: Manrope-Regular;
-	margin-bottom: 0
+	margin-bottom: 30px
 }
 
 .bottom-form:before {
