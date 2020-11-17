@@ -100,7 +100,7 @@
       <div class="container">
          <div class="row">
             <div class="col-md-8 col-sm-12 banner_text">
-               <!-- <h1>Be a part of a<br> compact, safe &<br> healthy gated<br> community</h1> -->
+               <h1>Be a part of the<br> <span class="mark">happiest</span> gated<br> community in<br> Whitefield,<br>Bangalore</h1>
             </div>
          </div>
       </div>
@@ -237,36 +237,6 @@
                         <input type='hidden' name='eo' value='14f4ec16431e0686150daa43f3210513'/> <input type='hidden' name='te' value='true'/><img id='tr_img_d2f602bd7b8229d920a508285b1c34a5a59c07b4beba8651ed4a72d7c190e58f' src='https://crm.zohopublic.com/crm/WebFormAnalyticsServlet?rid=d2f602bd7b8229d920a508285b1c34a5a59c07b4beba8651ed4a72d7c190e58fgid4d01b37207b10f83458f8c6a291240f67451bbad6c560f1bf2a3951bf5ceb0bbgida378f81585080d3b6fb1acbec6638b71gid885e3c1045bd9bdcc91bdf30f82b5696gid14f4ec16431e0686150daa43f3210513' style='display: none;' />
                      </form>
                </div>
-            </section>
-            <section class="main-section bg-blue">
-               <div>
-                  <div class="container">
-                     <div class="row">
-                        <div class="col-md-8 col-sm-12 banner_text">
-                           <h1>Be a part of a<br> compact, safe &<br> healthy gated<br> community</h1>
-                        </div>
-                        <div class="col-md-4 col-sm-12">
-                           <div id="sidebar">
-                              <div id="formHide" class="wrapper form-submit" style="position: fixed;width: 400px;z-index:999;top:90px">
-                                 
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <p class="intro-text tc-style mob-hide"><i>*T&C apply</i></p>
-            </section>
-            <section class="goodbye_rental">
-            <div class="container">
-            <div class="row">
-            <div class="col-md-7 col-lg-6 col-sm-12 rental">
-            
-            <p>Yes. You heard it right.<Br> Your Rentals for 18 months is Guaranteed. 
-            <Br> And it may go on and on… </p>
-            </div>
-            </div>
-            <a href="terms-conditions.html"> <h6>T&C apply</h6> </a>
-            </div>
             </section>  
              <section class="gated_comunity" style="background-color: #13487b">
                <div class="container">
