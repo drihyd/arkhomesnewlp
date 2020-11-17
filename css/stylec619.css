@@ -1031,13 +1031,26 @@ body.modal-open {
 	min-height: 100vh
 }
 
+@media(min-width: 1600px){
+	.mark{
+	    left: -46% !important;
+	    padding-left: 45% !important;
+	    margin-right: -46% !important;
+	}
+
+	.banner_text h1{
+		padding-left: 31% !important;
+	}
+
+}
+
 .mark{
 	background-color: #00A627;
     color: #fff;
     padding: 0.1em 0.2em;
     margin: 1%;
     position: relative;
-    left: -112px;
+    left: -115px;
     padding-left: 105px;
     margin-right: -15%;
 }
@@ -1048,7 +1061,7 @@ body.modal-open {
 	}
 }
 
-@media (max-width:991px) {
+@media (max-width:767px) {
 	.main-section.mobile-bg {
 		display: block;
 		background-position: 34%;
@@ -1169,6 +1182,20 @@ h2.author-name {
 	margin-top: -200px;
 }
 
+@media(max-width: 480px){
+	.form-wrapper{
+		padding: 20px 20px;
+	}
+	.form-heading-wrapper{
+		margin-top: 0;
+		padding: 20px 20px;
+	}
+
+	.mark{
+		margin-right: -30%;
+	}
+}
+
 .fixed {
 	position: fixed!important;
 	margin: 0;
@@ -1279,7 +1306,7 @@ footer p {
 	box-shadow: 0 3px 4px #756666
 }
 
-@media (max-width:991px) {
+@media (max-width:767px) {
 	.main-section {
 		background: 0 0;
 		padding: 20px 0;
@@ -1797,11 +1824,24 @@ footer {
 
 .banner_text h1 {
 	font-family: Muli-Light;
-	color: #fff
+	color: #fff;
+	padding-left: 12%;
 }
 
 .gated_comunity h2 {
 	line-height: 42px
+}
+
+@media(max-width: 768px){
+	.banner_text h1{
+		padding-left: 3%;
+	}
+}
+
+@media(max-width: 480px){
+	.banner_text h1{
+		padding-left: 6%;
+	}
 }
 
 @media only screen and (min-width:768px) and (max-width:991px) {
