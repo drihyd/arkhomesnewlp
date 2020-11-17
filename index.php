@@ -131,116 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-md-4 col-sm-12">
                            <div id="sidebar">
                               <div id="formHide" class="wrapper form-submit" style="position: fixed;width: 400px;z-index:999;top:90px">
-                                 <div class="sidebar__inner">
-                                    <h3 class="text-light">I want the 18 Months Guaranteed Rentals Offer</h3>
-                                    <form action='https://crm.zoho.com/crm/WebToLeadForm' id="WebToLeads4415315000004067049" name=WebToLeads4415315000004067049 method='POST' onSubmit='javascript:document.charset="UTF-8"; ' accept-charset='UTF-8'>
-                                       <input type='text' style='display:none;' name='xnQsjsdp' value='4d01b37207b10f83458f8c6a291240f67451bbad6c560f1bf2a3951bf5ceb0bb'></input> 
-                                       <input type='hidden' name='zc_gad' id='zc_gad' value=''></input> 
-                                       <input type='text' style='display:none;' name='xmIwtLD' value='d2f602bd7b8229d920a508285b1c34a59a17d89857143342f8a53fc1179a5362'></input> 
-                                       <input type='text'  style='display:none;' name='actionType' value='TGVhZHM='></input>
-                                       <input type='text' style='display:none;' name='returnURL' value='https://arkgroup.in/l/compact-apartment-in-whitefeld-bangalore/thankyou.html' > </input>
-                                       <br></br>
-                                       <!-- Do not remove this code. -->
-                                       <input type='text' style='display:none;' id='ldeskuid' name='ldeskuid'></input>
-                                       <input type='text' style='display:none;' id='LDTuvid' name='LDTuvid'></input>
-                                       <!-- Do not remove this code. -->
-                                       <div id="formSec" class="wrapper margin-top-30">
-                                          <div class="row">
-                                             <div class="col-sm-12">
-                                                <div class="form-group">
-                                                   <label for="last_name">Name</label>
-                                                   <input id="name" type='text' class="form-control name" name='Last Name' />
-                                                </div>
-                                             </div>
-                                             <div class="col-sm-12">
-                                                <div class="form-group">
-                                                   <label for="email">Email</label>
-                                                   <input id="email" type='text' class="form-control email" name='Email' />
-                                                </div>
-                                             </div>
-                                             <div class="col-sm-12">
-                                                <div class="form-group">
-                                                   <label for="mobile">Mobile</label>
-                                                   <input type='text' id="mobile" class="form-control phone" name='Mobile' id="Mobile" />
-                                                </div>
-                                             </div>
-                                             <div style="display: none;">
-                                                <select style='width:100%;box-sizing:border-box;' name='Lead Status'>
-                                                   <option value='-None-'>-None-</option>
-                                                   <option value='Attempted&#x20;to&#x20;Contact'>Attempted to Contact</option>
-                                                   <option value='Interested'>Interested</option>
-                                                   <option value='Virtual&#x20;Site&#x20;Visit&#x20;Appointment'>Virtual Site Visit Appointment</option>
-                                                   <option value='Virtual&#x20;Site&#x20;Visit&#x20;Done'>Virtual Site Visit Done</option>
-                                                   <option value='Contact&#x20;in&#x20;Future'>Contact in Future</option>
-                                                   <option value='1st&#x20;Site&#x20;Visit&#x20;Done'>1st Site Visit Done</option>
-                                                   <option value='2nd&#x20;Site&#x20;Visit&#x20;Done'>2nd Site Visit Done</option>
-                                                   <option value='New&#x20;Lead'>New Lead</option>
-                                                   <option value='Contacted'>Contacted</option>
-                                                   <option value='Lost&#x20;Lead'>Lost Lead</option>
-                                                   <option selected value='Not&#x20;Contacted'>Not Contacted</option>
-                                                   <option value='Pre-Qualified'>Pre-Qualified</option>
-                                                   <option value='Not&#x20;Interested'>Not Interested</option>
-                                                   <option value='Invalid&#x20;Number'>Invalid Number</option>
-                                                   <option value='Hot'>Hot</option>
-                                                   <option value='Warm'>Warm</option>
-                                                   <option value='Cold'>Cold</option>
-                                                   <option value='Switch&#x20;off'>Switch off</option>
-                                                   <option value='Low&#x20;Budget'>Low Budget</option>
-                                                   <option value='Not&#x20;Answered'>Not Answered</option>
-                                                   <option value='Site&#x20;Visit&#x20;Follow&#x20;Up'>Site Visit Follow Up</option>
-                                                   <option value='Site&#x20;Visit'>Site Visit</option>
-                                                   <option value='Duplicate&#x20;Lead'>Duplicate Lead</option>
-                                                   <option value='Junk&#x20;Lead'>Junk Lead</option>
-                                                   <option value='Not&#x20;Qualified'>Not Qualified</option>
-                                                   <option value='Not&#x20;Intrested'>Not Intrested</option>
-                                                </select>
-                                             </div>
-                                             <div style='display:none;' >
-                                             <div style='word-break: break-word;text-align:left;font-size:12px;font-family:Arial;width:30%'>Project Name</div>
-                                             <div style='width:40%;'>
-                                                <select style='width:100%;box-sizing:border-box;' name='LEADCF174'>
-                                                <option value='-None-'>-None-</option>
-                                          <option value='Ark&#x20;Homes'>Ark Homes</option>
-                                       <option selected value='Ark&#x20;Cloud&#x20;City'>Ark Cloud City</option>
-                                          <option value='2&#x25;&#x2b;6&#x20;Months'>2&#x25;&#x2b;6 Months</option>
-                                          <option value='Ark&#x20;Hema'>Ark Hema</option>
-                                          <option value='Ark&#x20;Hamptons'>Ark Hamptons</option>
-                                                </select>
-                                             </div>
-                                             <div style='width:30%;'></div>
-                                          </div>
-                                          <div style='display:none;' >
-                                             <div style='word-break: break-word;text-align:left;font-size:12px;font-family:Arial;width:30%'>Form Type</div>
-                                             <div style='width:40%;'>
-                                                <select style='width:100%;box-sizing:border-box;' name='LEADCF175'>
-                                                   <option value='-None-'>-None-</option>
-                                                   <option selected value='Automated'>Automated</option>
-                                                   <option value='Ventilated'>Ventilated</option>
-                                                </select>
-                                             </div>
-                                             <div style='width:30%;'></div>
-                                          </div>
-                                           <div>
-                                            <input type="hidden" name="LEADSOURCE" id="LEADSOURCE" value="<?php echo $utm_source  ?>">
-                                            <input type="hidden" name="LEADCF153" id="utm_source" value="<?php echo $utm_source  ?>">
-                                            <input type="hidden" name="LEADCF130" id="utm_medium" value="<?php echo $utm_medium  ?>">
-                                            <input type="hidden" name="LEADCF151" id="utm_campaign" value="<?php echo $utm_campaign  ?>">
-                                            <input type="hidden" name="LEADCF162" id="utm_term" value="<?php echo $utm_term  ?>">
-                                            <input type="hidden" name="LEADCF152" id="utm_content" value="<?php echo $utm_content  ?>">
-                                            <input type="hidden" value="Submit">
-                                            </div>
-
-                                             <div class="col-sm-12">
-                                                <div class="form-group">
-                                                   <!-- <input class="btn btn-cta ajaxFormButton formSubmit form-control" id='formsubmit' type='submit' value='Yes, I want an asset for life!'  > -->
-                                                   <button onclick="checkMandatory4415315000004067049()" id='formsubmit' type='submit' value='' class="btn btn-cta form-control"  >I want the 18 Months  Guaranteed <br> Rentals Offer</button> 
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                       <input type='hidden' name='eo' value='14f4ec16431e0686150daa43f3210513'/> <input type='hidden' name='te' value='true'/><img id='tr_img_d2f602bd7b8229d920a508285b1c34a5a59c07b4beba8651ed4a72d7c190e58f' src='https://crm.zohopublic.com/crm/WebFormAnalyticsServlet?rid=d2f602bd7b8229d920a508285b1c34a5a59c07b4beba8651ed4a72d7c190e58fgid4d01b37207b10f83458f8c6a291240f67451bbad6c560f1bf2a3951bf5ceb0bbgida378f81585080d3b6fb1acbec6638b71gid885e3c1045bd9bdcc91bdf30f82b5696gid14f4ec16431e0686150daa43f3210513' style='display: none;' />
-                                    </form>
-                                 </div>
+                                 
                               </div>
                            </div>
                         </div>
@@ -260,84 +151,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <a href="terms-conditions.html"> <h6>T&C apply</h6> </a>
             </div>
             </section>  
-             <section class="gated_comunity" style="padding-bottom:40px;padding-top:40px">
+             <section class="gated_comunity" style="background-color: #13487b">
                <div class="container">
                   <div class="row">
-                     <div class="col-md-6 col-sm-12">
-                        <h1> Ready-to move-in <br> gated community</h1>
-                        <h6>see the slide show</h6>
+                     <div class="col-md-7 col-sm-12">
+                        <h1 class="color-white">3 BHK homes ranging from 
+1495 to 2040 sft.</h1>
+                        <h1 class="color-white">Well-thought apartment layout, 
+so every inch of precious space 
+is utilized!</h1>
+
+<h1 class="color-white" style="margin-bottom: 0px">Just 165 apartments! </h1>
+<p class="color-white f-24"> At Ark Cloud, Whitefield — you know your neighbours. 
+There’s a strong sense of community and belonging! </p>
+<p class="color-white f-24">Amazing clubhouses packed with latest amenities. <br> From a modern gym to children’s play area and a lot more! </p>
+                     </div>
+                  </div>
+                  <div class="row" style="margin-top: 40px">
+                     <div class="col-sm-4 box-amenties">
+                        <img src="./img/fully_equipped_clubhouse.png" class="img-responsive">
+                        <p class="color-white f-24 m-4"> Fully-equipped  <br> 
+clubhouse </p>
+                     </div>
+                     <div class="col-sm-4 box-amenties">
+                        <img src="./img/childrens_play_area.png" class="img-responsive">
+                        <p class="color-white f-24 m-4">Children’s  play <br> area</p>
+                     </div>
+                     <div class="col-sm-4 box-amenties">
+                        <img src="./img/modern_gym.png" class="img-responsive">
+                        <p class="color-white f-24 m-4">Modern gym</p>
                      </div>
                   </div>
                </div>
             </section>
-            <div id="sldier-image" class="owl-carousel text-center" style="position:relative;z-index:9999">
-               <div>
-                  <img src="img/Gallery/01_gallery.jpg" class="img-responsive" alt="Great amenitie">
-                  <figcaption> Great amenities</figcaption>
-               </div>
-               <div>
-                  <img src="img/Gallery/02_gallery.jpg" class="img-responsive" alt="Children play are">
-                  <figcaption>Children play area</figcaption>
-               </div>
-               <div>
-                  <img src="img/Gallery/03_gallery.jpg" class="img-responsive" alt="Spacious rooms">
-                  <figcaption> Spacious rooms </figcaption>
-               </div>
-               <div>
-                  <img src="img/Gallery/04_gallery.jpg" class="img-responsive" alt="Amazing sunlight">
-                  <figcaption>Amazing sunlight and ventilation</figcaption>
-               </div>
-               <div>
-                  <img src="img/Gallery/05_gallery.jpg" class="img-responsive" alt="Noise-free">
-                  <figcaption> Noise-free, serene homes </figcaption>
-               </div>
-               <div>
-                  <img src="img/Gallery/06_gallery.jpg" class="img-responsive" alt="Gym">
-                  <figcaption>Gym</figcaption>
-               </div>
-               <div>
-                  <img src="img/Gallery/07_gallery.jpg" class="img-responsive" alt="Clubhouse">
-                  <figcaption>Clubhouse</figcaption>
-               </div>
-                <div>
-                  <img src="img/Gallery/08_gallery.jpg" class="img-responsive" alt="Pool">
-                  <figcaption>Temperature-controlled swimming pool</figcaption>
-               </div>
-               
-            </div>
-            <section class="icon-section padding-bottom-0">
-            <div>
-            <div class="container">
-            <div class="row">
-            <div class="col-md-8 col-sm-12">
-            <div class="item">
-            <div class="wrapper">
-            <img src="img/icon-1.jpg" alt="Happening" class="img-responsive" >
-            <div class="wrapper-content">
-            <h2 class="title">
-            If you have invested your own savings
-            </h2>
-            <p class="intro-text">That is like getting a steady income — month-on-month.</p>
-            </div>
-            </div>
-            </div>
-            <div class="item">
-            <div class="wrapper">
-            <img src="img/icon-02.jpg" alt="Beautiful" class="img-responsive">
-            <div class="wrapper-content">
-            <h2 class="title">
-            If you take a <Br> Bank Loan
-            </h2>
-            <p class="intro-text">The Monthly Rental will subsidize your EMI. Isn't that a WIN:WIN? </p>
-            </div>
-            </div>
-            </div>
-            </div>
-            </div>
-            </div>
-            </div>
-            </section>
-            <section class="gated_comunity" style="padding-top:0px">
+           
+           
+            <section class="gated_comunity" >
             <div class="container">
             <div class="row">
             <div class="col-md-8 col-sm-12">

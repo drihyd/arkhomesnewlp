@@ -1850,7 +1850,8 @@ header small {
 }
 .tick_points
 {
-	padding-left: 0px !important
+	padding-left: 0px !important;
+	margin-top: 40px
 }
 .tick_points li img
 {
@@ -1863,4 +1864,8 @@ header small {
 {
 	display: inline-block;
 	
+}
+.m-4
+{
+	margin-top: 20px
 }
