@@ -1875,7 +1875,8 @@ header small {
 	display: inline-block;
     margin-left: 48px;
     line-height: 150%;
-    margin-top: 5px
+    margin-top: 3px;
+    font-size: 20px
 	
 }
 .m-4

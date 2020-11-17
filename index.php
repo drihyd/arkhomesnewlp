@@ -282,6 +282,8 @@ clubhouse </p>
                A serene, residential oasis amidst 
 buzzing social infrastructure!
             </h1>
+         </div>
+          <div class="col-md-9 col-sm-12">
             <ul class="tick_points">
          <li>    <img src="./img/tick_icon.png" class="img-responsive"> <span> Educational - The Deen`s Academy, Sai Baba Educational Institutions, etc.</span> </li>
             <li> <img src="./img/tick_icon.png" class="img-responsive">
