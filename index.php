@@ -297,6 +297,45 @@ buzzing social infrastructure!
          </div>
       </div>
    </section>
+    <section class="gated_comunity" style="background-color:#ff0000">
+            <div class="container">
+            <div class="row">
+            <div class="col-md-6 col-sm-12">
+          
+            <h1 class="color-white"> Ready to Move-In Homes </h1>
+            <p class="color-white f-24">No more waiting ... You can move in right Now! your dream home is just a click away. Fill up the form now. Call +91 953 888 9887 or 80 2845 7838</p>
+            </div>
+            </div>
+            </div>
+            </section>
+
+            <div style="position:relative;z-index:9999">
+             <iframe src="" width="100%" height="540" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" ></iframe>
+            <footer class="bg-black text-align-center bottom">
+             <footer class="bg-black text-align-center bottom">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-sm-4 footerlink">
+                <p>&copy; 2020 Ark Group. All Rights Reserved</p>
+            </div>
+                     <div class="col-sm-4">
+                        <div class="ptc-links">
+                            <p> RERA NO: PRM/KA/RERA/1251/446/171030/000697 </p>
+                           <p> RERA NO: PRM/KA/RERA/1251/446/171028/000852</p>
+                        </div>
+                     </div>
+                     <div class="col-sm-4 footerlink">
+                        <div class="">
+                    <a href="privacy.html" class="link display-inline"><p>Privacy Policy</p></a> 
+                    <p class="display-inline">|</p>
+                    <a href="terms-conditions.html" class="link display-inline"><p>Terms & Conditions</p></a>
+                </div>
+                     </div>
+                  </div>
+               </div>
+            </footer>
+         </div>
+      </div>
 
    <div id="mqCheck-1199"></div>
       <div id="mqCheck-991"></div>
