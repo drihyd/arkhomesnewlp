@@ -896,6 +896,8 @@ body.modal-open {
 	font-size: 18px;
 	float: right;
 	border-radius: 0;
+	margin-top: 50px;
+	margin-bottom: 30px;
 }
 
 .btn.btn-cta:hover {
@@ -1169,6 +1171,21 @@ h2.author-name {
 	box-shadow: 0 3px 4px #756666;
 	width: 100%;
 	margin-top: 120px
+}
+
+@media(min-width: 1024px){
+	.large-padding{
+		padding: 150px 0px;
+	}
+
+	.form-heading-wrapper{
+		margin-top: -76.6% !important;
+	}
+}
+
+
+.form-group {
+    margin-bottom: 25px;
 }
 
 .form-wrapper {

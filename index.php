@@ -105,12 +105,13 @@
          </div>
       </div>
    </section>
-   <section class="padding-top-0">
+   <section class="large-padding">
       <div class="container">
          <div class="row flex-row">
             <div class="col-md-7 col-sm-5">
                <div class="wrapper">
-                  <h2>Limited time offer: Get<br> FREE registration if you<br> book now!</h2>
+                  <h2 class="margin-bottom-30">Limited time offer: Get FREE<br> registration if you book now!</h2>
+                  <h2>Just a few minutes from<br> Tech Parks & IT Corporates</h2>
                </div>
             </div>
             <div class="col-md-5 col-sm-7">
