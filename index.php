@@ -302,10 +302,10 @@ buzzing social infrastructure!
     <section class="gated_comunity" style="background-color:#ff0000">
             <div class="container">
             <div class="row">
-            <div class="col-md-6 col-sm-12">
+            <div class="col-md-8 col-sm-12">
           
             <h1 class="color-white"> Ready to Move-In Homes </h1>
-            <p class="color-white f-24">No more waiting ... You can move in right Now! your dream home is just a click away. Fill up the form now. Call +91 953 888 9887 or 80 2845 7838</p>
+            <p class="color-white f-24">No more waiting ... You can move in right Now! <br> Your dream home is just a click away. Fill up the form now. <br> Call +91 953 888 9887 or 80 2845 7838</p>
             </div>
             </div>
             </div>
