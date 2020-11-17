@@ -123,7 +123,7 @@
                         <input type='hidden' name='zc_gad' id='zc_gad' value=''></input> 
                         <input type='text' style='display:none;' name='xmIwtLD' value='d2f602bd7b8229d920a508285b1c34a59a17d89857143342f8a53fc1179a5362'></input> 
                         <input type='text'  style='display:none;' name='actionType' value='TGVhZHM='></input>
-                        <input type='text' style='display:none;' name='returnURL' value='https://arkgroup.in/l/happiest-gated-community-in-whitefield-bangalore/thankyou.html' > </input>
+                        <input type='text' style='display:none;' name='returnURL' value='http://deepredink.com/demos/happiest-gated-community-in-whitefield-bangalore/thankyou.html' > </input>
                         <br></br>
                         <!-- Do not remove this code. -->
                         <input type='text' style='display:none;' id='ldeskuid' name='ldeskuid'></input>
@@ -134,7 +134,7 @@
                               <div class="col-sm-12">
                                  <div class="form-group">
                                     <h3 class="text-dark">What is Your Budget</h3>
-                                    <input type="radio" id="70lacs" name="price" value="70 lacs to i crore">
+                                    <input type="radio" id="70lacs" name="price" value="70 lacs to 1 crore">
                                     <label for="70lacs">70 lacs to 1 crore</label><br>
                                     <input type="radio" id="1crore" name="price" value="More than 1 crore">
                                     <label for="1crore">More than 1 crore</label><br>
